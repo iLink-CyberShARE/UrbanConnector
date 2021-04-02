@@ -15,3 +15,6 @@ Copyright 2019 - 2021 Raul Alejandro Vargas Acosta, Ruey Long Cheu, Natalia Vill
 
 # Disclaimer
 The contents of this application reflect the views of the authors, who are responsible for the facts and the accuracy of the information presented herein. This application is disseminated in the interest of information exchange. This work is funded, partially or entirely, by a grant from the U.S. Department of Transportation’s University Transportation Centers Program. However, the U.S. Government assumes no liability for the contents or use thereof.
+
+# Acknowledgments
+The Urban Connector development team thanks Josue David Lopez, Dr. Okan Gurbuz, Diana Becerra, Emiliano Ruiz, Ruth Priscilla Granados, and Fernie Briones for the useful discussions during the development of the Urban Connector Release Candidate 1.0
